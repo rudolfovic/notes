@@ -41,14 +41,10 @@ Whenever installing an app downloaded from the Internet, to bypass the security 
 
 # Applications
 
-* [VLC]
-(http://www.videolan.org)
-* [MacDown]
-(https://macdown.uranusjr.com)
-* [Folx]
-(https://mac.eltima.com/folx-download.html)
-* [Sublime 3]
-(https://www.sublimetext.com)
+* [VLC](http://www.videolan.org)
+* [MacDown](https://macdown.uranusjr.com)
+* [Folx](https://mac.eltima.com/folx-download.html)
+* [Sublime 3](https://www.sublimetext.com)
 
 ## App Store
 
